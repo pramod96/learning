@@ -1,1 +1,1 @@
-added a text in dev
+updated the text in hotfix
